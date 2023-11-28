@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   kwasm-operator:
   - apiVersion: v2
+    appVersion: 0.2.3
+    created: "2023-11-28T11:06:48.95844058Z"
+    description: A Helm chart for Kubernetes
+    digest: 36bd9f98360b2fcf37f379b71c39538a22a4e5314a9f797f3310f921e8c4e735
+    name: kwasm-operator
+    type: application
+    urls:
+    - https://github.com/flavio/kwasm-operator/releases/download/kwasm-operator-0.2.3/kwasm-operator-0.2.3.tgz
+    version: 0.2.3
+  - apiVersion: v2
     appVersion: 0.2.2
     created: "2023-06-08T14:03:22.289036274Z"
     description: A Helm chart for Kubernetes
@@ -41,4 +51,4 @@ entries:
     urls:
     - https://github.com/KWasm/kwasm-operator/releases/download/kwasm-operator-0.1.0/kwasm-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-08T14:03:22.289047974Z"
+generated: "2023-11-28T11:06:48.958536198Z"
